@@ -36,3 +36,13 @@ True if really ill & days left.
 True if meh, dislike job & days left.
 Else, False.
 Got this? Share it! 🔥
+
+-- "GUESSING GAME!" 🎲✨
+
+Get user's guess and check against a secret number.
+
+Correct guess? Celebrate their win! 🎉
+
+Too high or too low? Give them a hint! 🔍
+
+Bonus: Keep the fun going! Offer a replay option. 🔄
